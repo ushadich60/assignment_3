@@ -1,0 +1,1 @@
+the relative path is "a or b /assets/"
